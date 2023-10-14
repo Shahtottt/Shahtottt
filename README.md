@@ -1,5 +1,5 @@
 <h1 align="center">Hello️</h1>
-<h3 align="center">I'm Mahmoud, A Frontend developer and graphic design</h3>
+<h3 align="center">I'm Mahmoud</h3>
 
 - 🌱 I’m currently learning: Node.js
 - 📫 How to reach me: mahmoud20191700603@cis.asu.edu.eg
